@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header]([./your-header-image-name.png](https://www.google.com/search?q=github+banner+laptop+gif&tbm=isch&ved=2ahUKEwjL8Znp19yDAxX4ZGwGHQJIC3IQ2-cCegQIABAA&oq=github+banner+laptop+gif&gs_lcp=CgNpbWcQAzoECCMQJ1CGBlj_MmCfOGgCcAB4AIABlQOIAb4OkgEJMC4xLjQuMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=frmjZcu6DvjJseMPgpCtkAc&bih=742&biw=1528#imgrc=gjV-fY87U3IhAM))
 <h1 align="center">Hi 👋, I'm Aarushi Singh</h1>
 <h3 align="center">A passionate Coder and frontend developer from India</h3>
 
