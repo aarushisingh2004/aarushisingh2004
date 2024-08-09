@@ -6,8 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-<h1 align="center">Note for stalkers, sorry innovators! </h1>
-<h3 align="center">"Welcome, fellow innovators! Feel free to borrow my ideas—imitation is the sincerest form of flattery, after all. Just remember, while you're busy copying, I'll be over here creating the next big thing. 😉"</h3>
+
 
 
 
