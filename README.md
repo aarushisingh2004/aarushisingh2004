@@ -8,7 +8,7 @@
 
 <h1 align="center">Note for stalkers, sorry innovators! </h1>
 <h3 align="center">"Welcome, fellow innovators! Feel free to borrow my ideas—imitation is the sincerest form of flattery, after all. Just remember, while you're busy copying, I'll be over here creating the next big thing. 😉"</h3>
-<h3 align="center">"As if I don't know :) "</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushisingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="aarushisingh2004" /> </p>
